@@ -1,6 +1,6 @@
 # 코드로 배우는 스프링 웹 프로젝트 (개정판) 실습
 
-![코배스프링복](https://user-images.githubusercontent.com/60068586/115865093-cdbee980-a472-11eb-876b-80eb1ec05c1f.jpg)
+<img src='https://user-images.githubusercontent.com/60068586/115865093-cdbee980-a472-11eb-876b-80eb1ec05c1f.jpg' width="300px" height="400px">
 
 
 ### 게시글, 댓글 CRUD 기능을 포함하는 기본적인 웹 사이트 구축
